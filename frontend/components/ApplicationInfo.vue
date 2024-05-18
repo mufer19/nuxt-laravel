@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { useApi } from "~~/api/composables/useApi";
+import { useApi } from "~/api/composables/useApi";
 
 const api = useApi();
 
